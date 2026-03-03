@@ -2,17 +2,16 @@
 
 Bem-vindo ao meu portfólio online!  
 Sou estudante de Análise e Desenvolvimento de Sistemas (UNOESTE) e estagiário de TI no Almoxarifado Municipal de Presidente Prudente-SP.  
-Estou em busca da minha primeira oportunidade como **Desenvolvedor Júnior** (Frontend, Fullstack ou Backend com Python/Node).
+Estou em busca da minha primeira oportunidade como **Desenvolvedor Júnior**
 
-🚀 **Site ao vivo:** [https://portfolio-malvino.vercel.app](https://portfolio-malvino.vercel.app)  
-_(atualize com o link real depois do deploy na Vercel/Netlify)_
+**Site ao vivo:** [https://portfolio-malvino.vercel.app](https://portfolio-malvino.vercel.app)
 
 ## Sobre mim
 
-- 📍 Presidente Prudente, SP
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas (previsão de conclusão: 2027)
-- 💼 Estagiário de TI – Suporte técnico, organização de dados digitais e processos internos
-- 🛠️ Tecnologias que estou aprendendo e usando:
+- Presidente Prudente, SP
+- Cursando Análise e Desenvolvimento de Sistemas (previsão de conclusão: 2027)
+- Estagiário de TI – Suporte técnico, organização de dados digitais e processos internos
+- Tecnologias que estou aprendendo e usando:
   - **Frontend:** HTML5, CSS3, JavaScript, React, Tailwind CSS
   - **Backend (básico):** Node.js / Express, Python
   - **Ferramentas:** Git & GitHub, Vite, Vercel, Supabase (banco + auth)
@@ -21,8 +20,6 @@ _(atualize com o link real depois do deploy na Vercel/Netlify)_
 Atualmente focado em construir projetos práticos para ganhar experiência real e contribuir em equipes.
 
 ## Projetos em destaque
-
-_(Adicione cards ou links depois que tiver projetos prontos. Por enquanto pode deixar assim ou colocar placeholders)_
 
 - **[Projeto 1 - Nome do Projeto]**  
   Descrição curta. Tecnologias: React, Tailwind, Supabase.  
